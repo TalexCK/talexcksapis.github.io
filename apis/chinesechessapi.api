@@ -1,0 +1,8 @@
+Version:0.0.2.4
+AlphaVersion:0.1-beta
+Server:false
+Service:true
+register:false
+login:false
+mutiplayer:false
+ai:true
